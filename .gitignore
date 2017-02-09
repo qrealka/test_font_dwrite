@@ -1,0 +1,6 @@
+/x64/Debug
+/test_font_enum/x64/Debug
+/ipch/TEST_FONT_ENUM-3268fc83/*.ipch
+/*.opendb
+/*.db
+/test_font_enum/test_font_enum.vcxproj.user
